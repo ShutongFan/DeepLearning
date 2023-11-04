@@ -1,4 +1,4 @@
-# DeepLearning_project
+# Deep Learning Computer Vision Project
 
 ## Identifying Pneumonia by X-ray image based-on Deep learning
 
